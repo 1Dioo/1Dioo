@@ -15,7 +15,6 @@
 </p>
 
 <div align="center">
-  <p>Quanxi</p>
   <img src="https://i.pinimg.com/originals/72/c5/e4/72c5e4540d4376a3750694082d58fe79.gif" width="600px" />
 </div>
 
