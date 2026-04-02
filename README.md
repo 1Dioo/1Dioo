@@ -10,11 +10,12 @@
 <br>
 
 ---
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,dart,flutter,html,css,js,react,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,dart,js,react" />
 </p>
 
 <div align="center">
+  <p>Quanxi</p>
   <img src="https://i.pinimg.com/originals/72/c5/e4/72c5e4540d4376a3750694082d58fe79.gif" width="600px" />
 </div>
 
