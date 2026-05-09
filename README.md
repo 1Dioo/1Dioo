@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/99/af/a8/99afa8f5ae94801e2fe155688a94c473.gif" width="600px" />
+  <img src="https://i.pinimg.com/originals/1f/d8/6d/1fd86d20cd9188973eaa7398f5d7c0c7.gif" width="600px" />
 </div>
 
 ---
