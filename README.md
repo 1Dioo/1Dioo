@@ -18,6 +18,10 @@
   <img src="https://i.pinimg.com/originals/72/c5/e4/72c5e4540d4376a3750694082d58fe79.gif" width="600px" />
 </div>
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/99/af/a8/99afa8f5ae94801e2fe155688a94c473.gif" width="600px" />
+</div>
+
 ---
 
 ## Parceiros
