@@ -5,6 +5,8 @@
   <a href="https://github.com/1Dioo">
     <img src="https://img.shields.io/badge/GitHub-Perfil-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <h3><b>Em desenvolvimento: SchoolHub (projeto pessoal)</b></h3>
 </div>
 
 <br>
