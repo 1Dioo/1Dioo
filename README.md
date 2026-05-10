@@ -1,37 +1,87 @@
 <div align="center">
-  <h1>Olá, eu sou Diogo!</h1>
-  <p><b>Estudante de Tecnologia | 17 anos | Futuro Desenvolvedor Back-end</b></p>
 
+# Hello, I'm Diogo! 👋
+
+### Technology Student • 17 years old • Aspiring Back-end Developer
+
+Passionate about web development, modern interfaces, and building real-world projects using front-end and back-end technologies.
+
+<p>
   <a href="https://github.com/1Dioo">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
+</p>
 
-<br>
+</div>
 
 ---
 
-## Tecnologias Principais
+# About Me
 
-### Backend
+- 💻 Focused on Back-end Development
+- 🚀 Currently learning Java, Spring Boot, React and modern web technologies
+- 🎯 Building projects to improve my development skills every day
+- 📚 Interested in Full Stack Development, UI Design and Software Engineering
+- 🌎 Open to freelance opportunities and collaborations
+
+---
+
+# Technologies & Tools
+
+## Back-end
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />
 </p>
 
-### Mobile
-<p>
-  <img src="https://skillicons.dev/icons?i=dart,flutter" />
-</p>
-
-### Frontend
+## Front-end
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
 
+## Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
+</p>
+
+## Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
 ---
 
-## Projetos em Destaque
+# Featured Projects
 
-| Projeto         | Descrição                                | Link |
-|-----------------|------------------------------------------|------|
-| Barbearia       | Site Barbearia              | [Acessar](https://barbearia-iota-steel.vercel.app/) |
+| Project | Description | Technologies | Live Demo |
+|----------|-------------|--------------|------------|
+| Barber Shop Website | Modern and responsive barber shop landing page with clean UI/UX and mobile-friendly design. | HTML, CSS, JavaScript | [Access](https://barbearia-iota-steel.vercel.app/) |
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Dioo&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Dioo&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# Contact
+
+<p>
+  <a href="https://github.com/1Dioo">
+    <img src="https://img.shields.io/badge/GitHub-1Dioo-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 🚀
+
+</div>
