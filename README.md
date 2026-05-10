@@ -35,7 +35,7 @@ Passionate about web development, modern interfaces, and building real-world pro
 
 ## Front-end
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ## Mobile
