@@ -58,18 +58,6 @@ Passionate about web development, modern interfaces, and building real-world pro
 
 ---
 
-# GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=1Dioo&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Dioo&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # Contact
 
 <p>
