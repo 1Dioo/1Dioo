@@ -27,3 +27,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
+
+---
+
+## Projetos em Destaque
+
+| Projeto         | Descrição                                | Link |
+|-----------------|------------------------------------------|------|
+| Barbearia       | Site Barbearia              | [Acessar](https://barbearia-iota-steel.vercel.app/) |
