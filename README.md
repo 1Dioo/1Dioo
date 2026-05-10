@@ -1,49 +1,29 @@
 <div align="center">
   <h1>Olá, eu sou Diogo!</h1>
-  <p><b>Estudante de Tecnologia | Futuro Desenvolvedor Back-end</b></p>
+  <p><b>Estudante de Tecnologia | 17 anos | Futuro Desenvolvedor Back-end</b></p>
 
   <a href="https://github.com/1Dioo">
     <img src="https://img.shields.io/badge/GitHub-Perfil-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
-  <h3><b>Em desenvolvimento: SchoolHub (projeto pessoal)</b></h3>
 </div>
 
 <br>
 
 ---
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,dart,js,react" />
+
+## Tecnologias Principais
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />
 </p>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/72/c5/e4/72c5e4540d4376a3750694082d58fe79.gif" width="600px" />
-</div>
+### Mobile
+<p>
+  <img src="https://skillicons.dev/icons?i=dart,flutter" />
+</p>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/1f/d8/6d/1fd86d20cd9188973eaa7398f5d7c0c7.gif" width="600px" />
-</div>
-
----
-
-## Parceiros
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/natanaelpc">
-        <b>@natanael</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/PetrusTF1">
-        <b>@petrus</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/JVictor-08">
-        <b>@JVictor</b>
-      </a>
-    </td>
-  </tr>
-</table>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
