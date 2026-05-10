@@ -30,7 +30,7 @@ Passionate about web development, modern interfaces, and building real-world pro
 
 ## Back-end
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs" />
 </p>
 
 ## Front-end
