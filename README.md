@@ -50,14 +50,6 @@ Passionate about web development, modern interfaces, and building real-world pro
 
 ---
 
-# Featured Projects
-
-| Project | Description | Technologies | Live Demo |
-|----------|-------------|--------------|------------|
-| Barber Shop Website | Modern and responsive barber shop landing page with clean UI/UX and mobile-friendly design. | HTML, CSS, JavaScript | [Access](https://barbearia-iota-steel.vercel.app/) |
-
----
-
 # Contact
 
 <p>
