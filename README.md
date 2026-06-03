@@ -57,11 +57,3 @@ Passionate about web development, modern interfaces, and building real-world pro
     <img src="https://img.shields.io/badge/GitHub-1Dioo-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile 🚀
-
-</div>
