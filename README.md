@@ -8,7 +8,7 @@ Passionate about web development, modern interfaces, and building real-world pro
 
 <p>
   <a href="https://github.com/1Dioo">
-    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" width="400px" height="250" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@ Passionate about web development, modern interfaces, and building real-world pro
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400px" height="250" />
 </div>
 
 ---
