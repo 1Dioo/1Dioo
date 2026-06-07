@@ -16,13 +16,9 @@ Passionate about web development, modern interfaces, and building real-world pro
 
 ---
 
-# About Me
-
-- 💻 Focused on Back-end Development
-- 🚀 Currently learning Java, Spring Boot, React and modern web technologies
-- 🎯 Building projects to improve my development skills every day
-- 📚 Interested in Full Stack Development, UI Design and Software Engineering
-- 🌎 Open to freelance opportunities and collaborations
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+</div>
 
 ---
 
