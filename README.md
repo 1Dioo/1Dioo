@@ -39,7 +39,7 @@ I use both front-end and back-end technologies.
 
 ## Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,intellij" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ij" />
 </p>
 
 ---
