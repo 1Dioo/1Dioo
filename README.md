@@ -2,9 +2,9 @@
 
 # Hello, I'm Diogo! 👋
 
-### Technology Student • 17 years old • Aspiring Back-end Developer
+### Technology Student • 17 years old • Back-end Developer
 
-Passionate about web development, modern interfaces, and building real-world projects using front-end and back-end technologies.
+I use both front-end and back-end technologies.
 
 <p>
   <a href="https://github.com/1Dioo">
