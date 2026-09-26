@@ -38,3 +38,12 @@ I use both front-end and back-end technologies.
 <p> <img src="https://skillicons.dev/icons?i=dart,flutter" /> </p>
 [ TOOLS ]
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea" /> </p>
+
+// GITHUB ACTIVITY
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1Dioo&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00f0ff&icon_color=ff00cc&text_color=ffffff" height="170"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Dioo&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00f0ff&text_color=ffffff" height="170"/> </div>
+
+// ACTIVITY LOG
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Dioo&theme=dark&hide_border=true&background=0d0d0d&ring=00f0ff&fire=ff00cc&currStreakLabel=ffffff" /> </div>
+
+BUILD. BREAK. REBUILD.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:ff00cc,100:0d0d0d&height=100&section=footer&animation=twinkling" width="100%"/> </div> ```
