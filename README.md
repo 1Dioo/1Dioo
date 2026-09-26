@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:050505&height=200&section=header&text=DIOGO&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:7B00FF,100:050505&height=200&section=header&text=DIOGO&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%">
 
 **Technology Student • 17 years old • Back-end Developer**
 
@@ -27,5 +27,5 @@
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Dioo&theme=dark&hide_border=true&background=0d0d0d&ring=00f0ff&fire=ff00cc&currStreakLabel=ffffff" /> </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:050505&height=100&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:7B00FF,100:050505&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
