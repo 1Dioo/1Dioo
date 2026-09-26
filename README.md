@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## `TECHNOLOGY STACK`
 
 # BACK-END
