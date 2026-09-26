@@ -28,15 +28,13 @@ I use both front-end and back-end technologies.
 
 ---
 
-## `// SYSTEM STATUS`
+## `TECHNOLOGY STACK`
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║                    DIOGO.EXE                            ║
-╠══════════════════════════════════════════════════════════╣
-║ STATUS       :: ONLINE                                  ║
-║ ROLE         :: BACK-END DEVELOPER                     ║
-║ ENVIRONMENT  :: JAVA / WEB / MOBILE                    ║
-║ LOCATION     :: BRAZIL                                 ║
-║ SYSTEM       :: BUILDING                               ║
-╚══════════════════════════════════════════════════════════╝
+[ BACK-END ]
+<p> <img src="https://skillicons.dev/icons?i=java,python,nodejs" /> </p>
+[ FRONT-END ]
+<p> <img src="https://skillicons.dev/icons?i=html,css,js" /> </p>
+[ MOBILE ]
+<p> <img src="https://skillicons.dev/icons?i=dart,flutter" /> </p>
+[ TOOLS ]
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,idea" /> </p>
